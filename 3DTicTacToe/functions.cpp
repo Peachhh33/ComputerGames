@@ -3,9 +3,6 @@
 
 using namespace std;
 
-//Student name:	Xin Shu
-//ID:		260773599
-
 void greetAndInstruct(){	
 	cout << "\nHello and welcome to the Tic Tac Toe challenge: Player against Computer.\n";
 	cout << "The board is numbered from 1 to 27 as per the following: \n";

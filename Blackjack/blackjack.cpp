@@ -8,9 +8,6 @@
 #include "blackjack.h"
 using namespace std;
 
-//Student name:	Xin Shu
-//ID:		260773599
-
 //to compile this assignment, please do "g++ main.cpp", then "./a.out".
 //for the same class, I will not add an extra line between each method; I will be adding an extra line between each class. 
 Card::Card(){}//the default constructor

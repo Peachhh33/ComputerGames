@@ -4,9 +4,6 @@
 
 using namespace std;
 
-//Student name:	Xin Shu
-//ID:		260773599
-
 int main(){
 	greetAndInstruct();
 	char board[] = "abcdefghijklmnopqrstuvwxyz{";
